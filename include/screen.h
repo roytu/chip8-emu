@@ -1,6 +1,5 @@
 
-#ifndef SCREEN_H
-#define SCREEN_H
+#pragma once
 
 class Screen {
     private:
@@ -14,4 +13,3 @@ class Screen {
         void print();
 };
 
-#endif

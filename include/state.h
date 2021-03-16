@@ -3,6 +3,8 @@
 #include <cstdint>
 #include "screen.h"
 
+#pragma once
+
 using namespace std;
 
 class State {
